@@ -1,6 +1,6 @@
 {
   "name": "califi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple utility to evaluate mathematical expressions using Large Language Models (OpenAI GPT-4o-mini)",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
