@@ -1,4 +1,31 @@
-# Califi
+<p align="center">
+  <a href="https://github.com/noonosh/califi">
+    <img src="https://raw.githubusercontent.com/noonosh/califi/main/logo.png" alt="Califi Logo" width="80" style="margin-bottom: 15px;">
+  </a>
+</p>
+
+<h1 align="center">Califi</h1>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/califi">
+    <img src="https://img.shields.io/npm/v/califi?color=cb3837&logo=npm&style=flat-square" alt="npm version">
+  </a>
+  <a href="https://github.com/noonosh/califi">
+    <img src="https://img.shields.io/github/stars/noonosh/califi?style=flat-square&logo=github" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/noonosh/califi/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/noonosh/califi?style=flat-square" alt="License">
+  </a>
+  <a href="https://www.npmjs.com/package/califi">
+    <img src="https://img.shields.io/npm/dm/califi?style=flat-square" alt="npm downloads">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/noonosh/califi">GitHub</a>
+  &nbsp;|&nbsp;
+  <a href="https://www.npmjs.com/package/califi">NPM</a>
+</p>
 
 A simple npm package that evaluates mathematical expressions using Large Language Models (OpenAI's GPT-4o-mini).
 
